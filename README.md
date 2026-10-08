@@ -12,6 +12,7 @@ started with Vue front-ends, now ship complete products with AI inside.
 
 **Recent work**
 
+- **[duet](https://github.com/yartsun/agent-duet)** — runs Codex and Claude Code as a builder/reviewer pair: isolated git worktrees, cross-review, checks and a local dashboard
 - **AI video pipeline** — character animation and 1080p upscaling in ComfyUI on RunPod GPUs, driven by a Telegram bot and a web panel
 - **Freelance lead assistant** — watches Freelancer.com, scores new projects against a profile and drafts proposals with an LLM
 - **Food quality & smart-cart platform** — Nuxt 3, NestJS, Prisma/PostgreSQL, BullMQ, Meilisearch, Python parsers and matching
