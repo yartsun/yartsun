@@ -22,4 +22,4 @@ Most of my client work is private — happy to walk through the code on a call.
 
 **Stack:** TypeScript · Vue · Nuxt · NestJS · Node.js · Python · PostgreSQL · Redis · Docker · ComfyUI
 
-📫 **Have a project in mind?** [Email](mailto:bogdan.yartsun@gmail.com) · [Telegram](https://t.me/yartsun) · [LinkedIn](https://www.linkedin.com/in/yartsun) — available for new work, UTC+2/+3
+📫 [bogdan.yartsun@gmail.com](mailto:bogdan.yartsun@gmail.com)
